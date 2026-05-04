@@ -1,0 +1,6 @@
+{
+  "name": "Secure Message System",
+  "description": "A real-time messaging MVP with Row Level Security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
