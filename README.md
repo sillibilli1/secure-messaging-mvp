@@ -1,20 +1,15 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+```markdown
+    # Secure Message System
+    A web-based application built for secure and private communication.
 
-# Run and deploy your AI Studio app
+    ## Features
+    - User Authentication (Supabase Auth)
+    - Real-time Messaging (Supabase Realtime)
+    - Row Level Security (RLS) for data privacy
+    - Modern UI with Tailwind CSS
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/9cac734d-29c7-4fd5-a62b-85d15eaf2ff9
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+    ## Tech Stack
+    - Frontend: Next.js / React
+    - Database: Supabase (PostgreSQL)
+    - Deployment: Vercel
+    ```
